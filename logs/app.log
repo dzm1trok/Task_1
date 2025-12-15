@@ -1,0 +1,6 @@
+2025-12-15 17:53:09,569 [main] INFO  com.arrayapp.AppMain - Array: [1, 2, 3, 5]
+2025-12-15 17:53:09,581 [main] INFO  com.arrayapp.AppMain - MIN: 1
+2025-12-15 17:53:09,583 [main] INFO  com.arrayapp.AppMain - MAx: 5
+2025-12-15 17:53:09,583 [main] INFO  com.arrayapp.AppMain - SUM: 11
+2025-12-15 17:53:09,584 [main] INFO  com.arrayapp.AppMain - Bubble sort: [1, 2, 3, 5]
+2025-12-15 17:53:09,585 [main] INFO  com.arrayapp.AppMain - Selection sort: [1, 2, 3, 5]
