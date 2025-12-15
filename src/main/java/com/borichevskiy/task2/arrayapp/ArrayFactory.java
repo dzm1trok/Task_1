@@ -1,4 +1,4 @@
-package com.arrayapp;
+package com.borichevskiy.task2.arrayapp;
 
 public class ArrayFactory {
     public static ArrayEntity createArray(int[] values) throws ArrayException {

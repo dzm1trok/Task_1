@@ -1,4 +1,4 @@
-package com.arrayapp;
+package com.borichevskiy.task2.arrayapp;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

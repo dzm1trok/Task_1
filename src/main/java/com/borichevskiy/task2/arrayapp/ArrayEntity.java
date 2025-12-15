@@ -1,4 +1,4 @@
-package com.arrayapp;
+package com.borichevskiy.task2.arrayapp;
 
 public class ArrayEntity {
     private final int[] values;

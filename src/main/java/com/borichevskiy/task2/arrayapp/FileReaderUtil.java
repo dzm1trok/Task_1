@@ -1,4 +1,4 @@
-package com.arrayapp;
+package com.borichevskiy.task2.arrayapp;
 
 import java.io.IOException;
 import java.nio.file.Files;

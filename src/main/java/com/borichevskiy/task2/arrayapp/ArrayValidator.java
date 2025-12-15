@@ -1,4 +1,4 @@
-package com.arrayapp;
+package com.borichevskiy.task2.arrayapp;
 
 public class ArrayValidator {
     public static boolean isValid(int[] values) {
